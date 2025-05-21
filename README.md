@@ -167,27 +167,27 @@ team.html
         <div class="team">
             <div class="team-member">
                 <img src="ceo.jpg" alt="Owner" class="team-img">
-                <p><b>CHIIRADEEP R</b></p>
+                <p><b>VARUN JAYANDRAN</b></p>
                 <p>25 Year of Experience</p>
             </div>
             <div class="team-member">
                 <img src="chef-cooking-kitchen-while-wearing-professional-attire_23-2151208316.avif" alt="Chef adavan" class="team-img">
-                <p><b>ADAVAN</b></p>
+                <p><b>NITHISH</b></p>
                 <p>Head Chef - Expert in Multi Cuisine</p>
             </div>
             <div class="team-member">
                 <img src="istockphoto-1165683221-612x612.jpg" alt="Chef Johnson" class="team-img">
-                <p><b>Johnson</b></p>
+                <p><b>SANJAY</b></p>
                 <p>Pastry Chef - Creating Delicious Desserts</p>
             </div>
             <div class="team-member">
                 <img src="we-serve-best-cakes_637285-7884.avif" alt="KANNAN" class="team-img">
-                <p><b>KISSA KANNAN</b></p>
+                <p><b>ARSHAD</b></p>
                 <p>Waiter - Your Destination for the Best Service</p>
             </div>
             <div class="team-member">
                 <img src="BAR.jpg" alt="NEASAMANI" class="team-img">
-                <p><b>NEASAMANI</b></p>
+                <p><b>BALA</b></p>
                 <p>BARTENDER - Meant for the Best Service</p>
             </div>
         </div>
@@ -217,8 +217,8 @@ contact.html
     </header>
     <section>
         <p>Email: madhouse@gmail.com</p>
-        <p>Phone: +91 9894956232</p>
-        <b>Address: 69/96, KORATTUR, Chennai</b>
+        <p>Phone: +91 9383938393</p>
+        <b>Address: 69/96, KOLATHUR, Chennai</b>
     </section>
     
 </body>
@@ -346,6 +346,11 @@ footer {
 }
 ~~~
 # OUTPUT:
+![001](https://github.com/user-attachments/assets/a661e6f0-6724-4191-b232-cc57c7a9cc0f)
+![002](https://github.com/user-attachments/assets/d37fb66c-00a5-4768-97d9-e5ae2bac2323)
+![003](https://github.com/user-attachments/assets/f9562776-a101-468e-abcb-85b606d66665)
+![004](https://github.com/user-attachments/assets/51f24f0d-3f5b-4002-a2dc-7d26600df249)
+
 
 
 # RESULT:
